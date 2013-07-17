@@ -1,8 +1,8 @@
 {
   "author": "Luc Castera <luc.castera@gmail.com> (https://github.com/dambalah)",
-  "name": "mongoose-nested-set",
-  "description": "A mongoose plugin implementing the nested set pattern (aka as trees or hierarchies) for mongoose models",
-  "homepage": "https://github.com/groupdock/mongoose-nested-set",
+  "name": "mongoose-extended-nested-set",
+  "description": "A mongoose plugin implementing the nested set pattern (aka as trees or hierarchies) for mongoose models, forked from the original project to add some additional functionality",
+  "homepage": "https://github.com/Kerry350/mongoose-nested-set",
   "keywords": [
     "mongoose",
     "mongodb",
@@ -13,7 +13,7 @@
   "version": "0.0.5",
   "repository": {
     "type": "git",
-    "url": "git://github.com/groupdock/mongoose-nested-set.git"
+    "url": "git://github.com/Kerry350/mongoose-nested-set.git"
   },
   "main": "index.js",
   "scripts": {
